@@ -1,0 +1,46 @@
+.main{
+    background-color: aqua;
+    margin:10px;
+    padding:10px;
+}
+.sub{
+    background-color:bisque ;
+    margin: 10px;
+    padding: 10px;
+    border:5px double brown;
+    border-radius: 20px;
+}
+.ssub{
+    margin:5px ;
+    padding:5px ;
+    background-color: blueviolet;
+    border: 3px dotted red;
+    color: white;
+    border-radius: 5px;
+}
+.txt{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 70px;
+    font-weight: bold;
+    
+    
+}
+.txt2{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 70px;
+    font-weight: bold;
+    height: 300px;
+    position: relative;
+    top:10px;
+    
+}
+img{
+    border: 5px dotted red;
+}
+
+.content-card-desing{
+    background-image:url("https://i.pinimg.com/originals/c1/5c/ba/c15cbae66a8a930a1cb292aaf60bb815.jpg") ;
+    height: 263px;
+}
